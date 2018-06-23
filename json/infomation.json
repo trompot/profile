@@ -1,5 +1,10 @@
 {
     "rabbit": {
+        "OS":{
+            "maker": "Windows10 Pro",
+            "value": "",
+            "note": ""
+        },
         "マザボ": {
             "maker": "ASRocK X370 Gaming K4",
             "value": "14,500",
