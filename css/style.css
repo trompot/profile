@@ -4,7 +4,7 @@
 	    YuGothic,    /* Mac用 */
 	    'Yu Gothic', /* Windows用 */
 	    sans-serif;
-	src: url(/font/font.ttf);
+	src: url(./font/font.ttf);
 }
 
 html, body{
