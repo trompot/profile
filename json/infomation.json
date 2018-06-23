@@ -50,5 +50,47 @@
             "value": "7,500",
             "note": "750W"
         }
+    },
+    "server": {
+        "OS": {
+            "maker": "Fedora27",
+            "note": ""
+        },
+        "マザボ": {
+            "maker": "",
+            "note": ""
+        },
+        "CPU": {
+            "maker": "Intel Core2Due",
+            "note": ""
+        },
+        "GPU": {
+            "maker": "",
+            "note": ""
+        },
+        "Memory": {
+            "maker": "",
+            "note": "6GB"
+        },
+        "HDD": {
+            "maker": "",
+            "note": ""
+        },
+        "ケース": {
+            "maker": "",
+            "note": ""
+        },
+        "空冷": {
+            "maker": "",
+            "note": ""
+        },
+        "光学ドライブ": {
+            "maker": "",
+            "note": ""
+        },
+        "電源": {
+            "maker": "",
+            "note": ""
+        }
     }
 }
