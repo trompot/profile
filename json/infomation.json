@@ -52,22 +52,22 @@
         },
         "ケース": {
             "maker": "ANTEC P100",
-            "value": "8,800",
+            "value": "",
             "note": "black"
         },
         "空冷": {
             "maker": "CoolerMaster Hyper TX3 EVO RR-TX3E-28PK-J1",
-            "value": "3,300",
+            "value": "",
             "note": ""
         },
         "光学ドライブ": {
             "maker": "パイオニア BDR-209BK2 バルク",
-            "value": "8,800",
+            "value": "",
             "note": "Blue-ray Drive"
         },
         "電源": {
             "maker": "玄人志向 KRPW-BK750W/85+",
-            "value": "7,500",
+            "value": "",
             "note": "750W"
         }
     },
