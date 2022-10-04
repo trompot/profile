@@ -70,11 +70,5 @@
             "value": "",
             "note": "750W"
         }
-    },
-    "server": {
-        "OS": {
-            "maker": "",
-            "note": ""
-        }
     }
 }
