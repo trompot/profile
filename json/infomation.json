@@ -7,28 +7,48 @@
         },
         "マザボ": {
             "maker": "ASRocK X370 Gaming K4",
-            "value": "14,500",
+            "value": "",
             "note": ""
         },
         "CPU": {
             "maker": "AMD Ryzen7 1700X",
-            "value": "33,500",
+            "value": "",
             "note": ""
         },
         "GPU": {
             "maker": "ASUS STRIX-GTX1060-DC2O6G",
-            "value": "14,500",
+            "value": "",
             "note": "PCIExp 6GB"
         },
         "Memory": {
             "maker": "crucial CT2K16G4DFD824A",
-            "value": "42,000",
+            "value": "",
             "note": "DDR4 PC4-19200 16GB 2枚組"
         },
         "HDD": {
             "maker": "東芝 MD04ACA400",
-            "value": "11,800",
-            "note": "2台"
+            "value": "",
+            "note": "4TB 2台"
+        },
+        "HDD": {
+            "maker": "東芝 DT01ACA200",
+            "value": "",
+            "note": "2TB 1台"
+        },
+        "HDD": {
+            "maker": "WD WD40EZRZ",
+            "value": "",
+            "note": "4TB 1台"
+        },
+        "M.2 SSD": {
+            "maker": "Intel SSD 660p Series SSDPEKNW512G8XT",
+            "value": "",
+            "note": "512GB"
+        },
+        "SATA SSD": {
+            "maker": "EXCERIA SATA SSD-CK480S/J",
+            "value": "",
+            "note": "480GB"
         },
         "ケース": {
             "maker": "ANTEC P100",
@@ -53,44 +73,8 @@
     },
     "server": {
         "OS": {
-            "maker": "Fedora27",
-            "note": ""
-        },
-        "マザボ": {
             "maker": "",
             "note": ""
         },
-        "CPU": {
-            "maker": "Intel Core2Duo",
-            "note": ""
-        },
-        "GPU": {
-            "maker": "",
-            "note": ""
-        },
-        "Memory": {
-            "maker": "",
-            "note": "6GB"
-        },
-        "HDD": {
-            "maker": "",
-            "note": ""
-        },
-        "ケース": {
-            "maker": "",
-            "note": ""
-        },
-        "空冷": {
-            "maker": "",
-            "note": ""
-        },
-        "光学ドライブ": {
-            "maker": "",
-            "note": ""
-        },
-        "電源": {
-            "maker": "",
-            "note": ""
-        }
     }
 }
