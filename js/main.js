@@ -17,10 +17,4 @@ function initVue(info) {
             infos: info["rabbit"]
         }
     });
-    new Vue({
-        el: "#server",
-        data: {
-            infos: info["server"]
-        }
-    });
 }
