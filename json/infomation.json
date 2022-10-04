@@ -1,6 +1,6 @@
 {
     "rabbit": {
-        "OS":{
+        "OS": {
             "maker": "Windows10 Pro",
             "value": "",
             "note": ""
@@ -25,17 +25,17 @@
             "value": "",
             "note": "DDR4 PC4-19200 16GB 2枚組"
         },
-        "HDD": {
+        "HDD-1": {
             "maker": "東芝 MD04ACA400",
             "value": "",
             "note": "4TB 2台"
         },
-        "HDD": {
+        "HDD-2": {
             "maker": "東芝 DT01ACA200",
             "value": "",
             "note": "2TB 1台"
         },
-        "HDD": {
+        "HDD-3": {
             "maker": "WD WD40EZRZ",
             "value": "",
             "note": "4TB 1台"
@@ -75,6 +75,6 @@
         "OS": {
             "maker": "",
             "note": ""
-        },
+        }
     }
 }
